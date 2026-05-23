@@ -85,13 +85,13 @@ java Main
   ╠══════════════════════════════════════════════╣
   ║                                              ║
   ║   [1]  Catalogo de Videojuegos               ║
-  ║         Agregar, ver y eliminar juegos        ║
+  ║         Agregar, ver y eliminar juegos       ║
   ║                                              ║
   ║   [2]  Solicitudes de Jugadores              ║
-  ║         Registrar, consultar y atender        ║
+  ║         Registrar, consultar y atender       ║
   ║                                              ║
   ║   [3]  Historial de Acciones                 ║
-  ║         Ver y deshacer acciones               ║
+  ║         Ver y deshacer acciones              ║
   ║                                              ║
   ║   [0]  Salir del sistema                     ║
   ╚══════════════════════════════════════════════╝
@@ -148,4 +148,4 @@ Regla: campo_printf = cantidad_de_═ − 2
 ## 👤 Autor
 
 Proyecto desarrollado como Control 3 del curso ICIL030-11  
-Carrera de Ingeniería Civil en Informática — Universidad Gabriela Mistral
+Carrera de Ingeniería en Computación e Informática — Universidad Gabriela Mistral
